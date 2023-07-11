@@ -84,31 +84,6 @@ What type of drink would you like?
 [b] Mocha 
 [c] Latte 
 
-a
-
-Alright, that's a Medium Brewed Coffee!
-
-Can I get your name please? 
-
-Mia
-
-Thanks, Mia! Your drink will be ready shortly.
-christianhernandez@Christians-MacBook-Pro Python Programs % /usr/local/bin/python3 "/Users/christianhernandez/Documents/Python Programs/Coffee_Chatbot.py"
-
-Welcome to the cafe! 
-
-What size drink can I get you? 
-[a] Small 
-[b] Medium 
-[c] Large 
-
-b
-
-What type of drink would you like? 
-[a] Brewed Coffee 
-[b] Mocha 
-[c] Latte 
-
 c
 
 And what kind of milk for your latte? 
